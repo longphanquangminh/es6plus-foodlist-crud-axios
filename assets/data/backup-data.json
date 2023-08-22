@@ -1,0 +1,522 @@
+[
+  {
+    "ten": "Blue whiting",
+    "loai": false,
+    "gia": "540.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "1"
+  },
+  {
+    "ten": "Yellowstripe scad",
+    "loai": true,
+    "gia": "464.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "The Football Is Good For Training And Recreational Purposes",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "2"
+  },
+  {
+    "ten": "Atlantic mackerel",
+    "loai": false,
+    "gia": "299.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "3"
+  },
+  {
+    "ten": "Korean bullhead",
+    "loai": false,
+    "gia": "835.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "4"
+  },
+  {
+    "ten": "Jumbo flying squid",
+    "loai": true,
+    "gia": "354.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "5"
+  },
+  {
+    "ten": "Pollock",
+    "loai": false,
+    "gia": "81.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "6"
+  },
+  {
+    "ten": "Pacific thread herring",
+    "loai": false,
+    "gia": "690.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "7"
+  },
+  {
+    "ten": "Albacore",
+    "loai": false,
+    "gia": "116.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "8"
+  },
+  {
+    "ten": "Silver carp",
+    "loai": true,
+    "gia": "300.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "9"
+  },
+  {
+    "ten": "Kawakawa",
+    "loai": false,
+    "gia": "836.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "10"
+  },
+  {
+    "ten": "Crucian carp",
+    "loai": true,
+    "gia": "571.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "11"
+  },
+  {
+    "ten": "Longtail tuna",
+    "loai": true,
+    "gia": "510.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "12"
+  },
+  {
+    "ten": "Atlantic menhaden",
+    "loai": true,
+    "gia": "804.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "13"
+  },
+  {
+    "ten": "Indian mackerel",
+    "loai": true,
+    "gia": "180.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "14"
+  },
+  {
+    "ten": "Bonga shad",
+    "loai": true,
+    "gia": "668.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "The Football Is Good For Training And Recreational Purposes",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "15"
+  },
+  {
+    "ten": "Cape horse mackerel",
+    "loai": true,
+    "gia": "513.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "16"
+  },
+  {
+    "ten": "Jumbo flying squid",
+    "loai": false,
+    "gia": "350.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "17"
+  },
+  {
+    "ten": "Blue whiting",
+    "loai": false,
+    "gia": "852.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "18"
+  },
+  {
+    "ten": "Bighead carp",
+    "loai": true,
+    "gia": "519.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "19"
+  },
+  {
+    "ten": "Blood cockle",
+    "loai": true,
+    "gia": "72.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "20"
+  },
+  {
+    "ten": "Narrow-barred Spanish mackerel",
+    "loai": true,
+    "gia": "11.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "The Football Is Good For Training And Recreational Purposes",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "21"
+  },
+  {
+    "ten": "Pink salmon",
+    "loai": true,
+    "gia": "855.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "22"
+  },
+  {
+    "ten": "Milkfish",
+    "loai": false,
+    "gia": "414.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "23"
+  },
+  {
+    "ten": "Bigeye tuna",
+    "loai": true,
+    "gia": "261.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "24"
+  },
+  {
+    "ten": "Silver carp",
+    "loai": true,
+    "gia": "136.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "25"
+  },
+  {
+    "ten": "Round sardinella",
+    "loai": true,
+    "gia": "323.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "26"
+  },
+  {
+    "ten": "Alaska pollock",
+    "loai": false,
+    "gia": "588.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "27"
+  },
+  {
+    "ten": "Atlantic salmon",
+    "loai": false,
+    "gia": "274.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "28"
+  },
+  {
+    "ten": "Nile perch",
+    "loai": true,
+    "gia": "719.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "29"
+  },
+  {
+    "ten": "Pacific thread herring",
+    "loai": true,
+    "gia": "776.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "30"
+  },
+  {
+    "ten": "Chinese perch",
+    "loai": false,
+    "gia": "279.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "31"
+  },
+  {
+    "ten": "Asian swamp eel",
+    "loai": true,
+    "gia": "281.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "The Football Is Good For Training And Recreational Purposes",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "32"
+  },
+  {
+    "ten": "Kawakawa",
+    "loai": false,
+    "gia": "185.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "33"
+  },
+  {
+    "ten": "Jumbo flying squid",
+    "loai": true,
+    "gia": "964.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "34"
+  },
+  {
+    "ten": "Yellowstripe scad",
+    "loai": true,
+    "gia": "108.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "35"
+  },
+  {
+    "ten": "Peruvian anchoveta",
+    "loai": true,
+    "gia": "69.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "36"
+  },
+  {
+    "ten": "Blue swimming crab",
+    "loai": true,
+    "gia": "113.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "37"
+  },
+  {
+    "ten": "Pond loach",
+    "loai": true,
+    "gia": "274.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "38"
+  },
+  {
+    "ten": "Rainbow trout",
+    "loai": true,
+    "gia": "112.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "39"
+  },
+  {
+    "ten": "Gazami crab",
+    "loai": false,
+    "gia": "354.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "40"
+  },
+  {
+    "ten": "Pacific cod",
+    "loai": false,
+    "gia": "311.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "41"
+  },
+  {
+    "ten": "Pacific sand lance",
+    "loai": false,
+    "gia": "826.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "42"
+  },
+  {
+    "ten": "Gulf menhaden",
+    "loai": true,
+    "gia": "866.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "The Football Is Good For Training And Recreational Purposes",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "43"
+  },
+  {
+    "ten": "Korean bullhead",
+    "loai": true,
+    "gia": "76.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "44"
+  },
+  {
+    "ten": "Indian oil sardine",
+    "loai": true,
+    "gia": "259.00",
+    "khuyenMai": "20",
+    "tinhTrang": false,
+    "moTa": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "45"
+  },
+  {
+    "ten": "Chub mackerel",
+    "loai": true,
+    "gia": "855.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "46"
+  },
+  {
+    "ten": "Narrow-barred Spanish mackerel",
+    "loai": true,
+    "gia": "982.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "47"
+  },
+  {
+    "ten": "Bonga shad",
+    "loai": false,
+    "gia": "827.00",
+    "khuyenMai": "10",
+    "tinhTrang": true,
+    "moTa": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "48"
+  },
+  {
+    "ten": "Madeiran sardinella",
+    "loai": true,
+    "gia": "59.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "49"
+  },
+  {
+    "ten": "Largehead hairtail",
+    "loai": false,
+    "gia": "691.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "50"
+  },
+  {
+    "ten": "Blood cockle",
+    "loai": false,
+    "gia": "245.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "51"
+  },
+  {
+    "ten": "Skipjack tuna",
+    "loai": true,
+    "gia": "353.00",
+    "khuyenMai": "10",
+    "tinhTrang": false,
+    "moTa": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "hinhAnh": "https://loremflickr.com/640/480/food",
+    "ma": "52"
+  }
+]

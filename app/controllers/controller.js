@@ -13,7 +13,7 @@ let renderFoodList = list => {
   let contentHTML = "";
   list.reverse().forEach(food => {
     let foodObj = new Food(food.ma, food.ten, food.loai, food.gia, food.khuyenMai, food.tinhTrang, food.hinhAnh, food.moTa);
-    let { ma, ten, loai, gia, khuyenMai, tinhTrang, hinhAnh, moTa } = foodObj;
+    let { ma, ten, loai, gia, khuyenMai, tinhTrang } = foodObj;
     let trString =
       /*html*/
       `
@@ -43,7 +43,6 @@ export let fetchFoodList = () => {
   })
     .then(res => {
       renderFoodList(res.data);
-      console.log(res);
     })
     .catch(err => {
       console.log(err);
@@ -99,7 +98,6 @@ export let showThongTinForm = food => {
 
 selLoai.addEventListener("change", () => {
   let selectedValue = selLoai.value;
-  console.log(selectedValue);
   if (selectedValue == ALL || selectedValue == "" || selectedValue == CHON_LOAI) {
     fetchFoodList();
   } else {
@@ -110,7 +108,6 @@ selLoai.addEventListener("change", () => {
     })
       .then(res => {
         renderFoodList(res.data);
-        console.log(res);
       })
       .catch(err => {
         console.log(err);
